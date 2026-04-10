@@ -71,7 +71,8 @@ A collection of **Machine Learning and Data Science** implementations ranging fr
 
 ### 📈 Career Highlights
 * **Volmatica Inc:** Developing enterprise-grade GenAI applications.
-* **NASTP (Amal Axis):** Deployed a full-stack AI recruitment tool powered by Gemma.
+* **NASTP (Amal Axis):** Deployed a full-stack AI recruitment tool powered by Gemini.
+* **NASTP (Software DEVELOPMENT HUB):** Developed a full stack web Application.
 * **PAF (Big Data Lab):** Trained in Python-based data science and ML model deployment.
 
 ---
