@@ -84,7 +84,7 @@ A collection of **Machine Learning and Data Science** implementations ranging fr
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/nayal-usmani">
+  <a href="www.linkedin.com/in/muhammad-nayal-usmani-aa823b314">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nayalusmani@gmail.com">
